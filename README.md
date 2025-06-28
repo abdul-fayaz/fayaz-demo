@@ -1,4 +1,4 @@
 # fayaz-demo
 This is my first git Repository.
 <br>
-Author -abdul fayaz
+Author -abdul fayazul haq
